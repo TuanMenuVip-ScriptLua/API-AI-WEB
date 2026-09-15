@@ -1156,9 +1156,9 @@ def menu():
     while True:
         os.system("clear")
 
-        print(blue("=" * 55))
-        print(blue("     🥶HBACH TOOL - SNAP YTB , TIKTOK , FACEBOOK🥶"))
-        print(blue("=" * 55))
+        print(blue("=" *_46))
+        print(blue(" 🥶HBACH TOOL - SNAP YTB , TIKTOK , FACEBOOK🥶"))
+        print(blue("=" * 46))
         print()
 
         print(blue(
