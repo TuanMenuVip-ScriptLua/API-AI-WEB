@@ -565,9 +565,9 @@ def tiktok_picture():
 def download_facebook_picture(url):
     os.system("clear")
 
-    print(blue("=" * 48))
+    print(blue("=" * 46))
     print(blue("     TẢI ẢNH FACEBOOK"))
-    print(blue("=" * 48))
+    print(blue("=" * 46))
     print()
 
     if not (
@@ -827,9 +827,9 @@ def download_facebook_picture(url):
 def youtube_tiktok_facebook_video():
     os.system("clear")
 
-    print(blue("=" * 48))
+    print(blue("=" * 46))
     print(blue("       TẢI VIDEO"))
-    print(blue("=" * 48))
+    print(blue("=" * 46))
     print()
 
     url = ask("🔗 Nhập link: ")
@@ -1156,7 +1156,7 @@ def menu():
     while True:
         os.system("clear")
 
-        print(blue("=" *_46))
+        print(blue("=" * 46))
         print(blue(" 🥶HBACH TOOL - SNAP YTB , TIKTOK , FACEBOOK🥶"))
         print(blue("=" * 46))
         print()
